@@ -1,6 +1,3 @@
-# React + Vite
-
-
 # Meta Sevante👨‍💻
  Savante is a Brand and Influencer Matching AI Platform.❤️
 
